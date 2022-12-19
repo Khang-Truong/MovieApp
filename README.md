@@ -28,3 +28,7 @@
 - Install Android Studio
 - Open project with Android Studio
 - Run the app (Simulator/ Real device - Targeted for Nexus 6 API 30)
+
+# Contact
+- Kate Truong - khangtruong8385@gmail.com
+- Linkedin: https://www.linkedin.com/in/khangtruong8385/
